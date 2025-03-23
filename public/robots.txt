@@ -1,0 +1,9 @@
+# Allow all robots complete access to the site
+User-agent: *
+Disallow:
+
+# Block specific paths from being crawled (Example, if needed)
+# Disallow: /private/
+
+# Sitemap location (important for SEO)
+Sitemap:  https://adsense-neon.vercel.app/sitemap.xml
