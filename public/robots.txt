@@ -6,4 +6,4 @@ Disallow:
 # Disallow: /private/
 
 # Sitemap location (important for SEO)
-Sitemap:  https://adsense-neon.vercel.app/sitemap.xml
+Sitemap:  https://madanism.vercel.app/sitemap.xml
